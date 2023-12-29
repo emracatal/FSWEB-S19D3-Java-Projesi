@@ -17,7 +17,7 @@ yazarno	 yazarad	yazarsoyad
 `tur` tablosu kitapların türlerini tutar.
 turno	turadi
 Tablo ilişiklerini görmek için [ktphn.png] dosyasına göz atın.
-
+x
 Yazdığınız sorguları buradan test edebilirsiniz: [https://ergineer.com/assets/materials/fkg36so5-kutuphanebilgisistemi-sql/]
 # Görevler
 Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yazın. 
